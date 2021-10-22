@@ -6,7 +6,7 @@ First Page
 Admin Page Dashboard
 ![AdminPAge](https://user-images.githubusercontent.com/89781325/138424761-79f43871-0a76-4d5b-b260-f010aa569629.PNG)
 
-Meniu Page
+Menu Page
 ![MeniuPAge](https://user-images.githubusercontent.com/89781325/138425235-803cc75b-2cd4-4a94-9a2d-a4a2586fc20f.PNG)
 
 Reservation Page
